@@ -19,7 +19,7 @@
 ### 👤 Обо мне
 
 ```golang
-const gugkaevgeor = {
+var gugkaevgeor = {
   code:         [Golang, C++, SQL],
   tools:        [Gin, Git, PostgreSQL, Docker, RabbitMQ],
   architecture: ["microservices", "event-driven", "async"],
