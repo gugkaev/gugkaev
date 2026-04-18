@@ -3,7 +3,7 @@
 # Добро пожаловать! 🤝
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ggugkaevv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ggugkaevv)
-[![Habr](https://img.shields.io/badge/Habr-статья-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/sandbox/280618/)
+[![Habr](https://img.shields.io/badge/Habr-статья-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/articles/1025068)
 
 </div>
 
